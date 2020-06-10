@@ -11,5 +11,6 @@ flags = {
     'dev_wd':'/home/udaman/Documents/isic',
     'input_h': 224,
     'input_w': 224,
+    'input_shape':[224, 224,3],
     'batch_size':16
 }
