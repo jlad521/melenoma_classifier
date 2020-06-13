@@ -1,7 +1,7 @@
 #flags.py
 import os
 
-ds_r = '/media/udaman/Hard Disk/melenoma_ds'
+ds_r = '/home/udaman/hdd_1/melenoma_ds'
 flags = {
     'ds_root':ds_r,
     'train_dcim':os.path.join(ds_r, 'train'),
